@@ -43,6 +43,6 @@ The landing page is designed for **SABZI-TAXTA**(not exsist), offering computers
 ## 🚀 Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/product-landing-page-demo.git
+   git clone https://github.com/SAYDULLO-web-dev/1.4.Product-Landing-Page_-freeCodeCamp-.git
 
 2. Navigate to the project directory and open index.html in your browser.
